@@ -1,0 +1,6 @@
+CHILD, value is: 20
+
+Program modified by Armanul Ambia
+Before PARENT calls wait
+
+PARENT: after wait, value not changed, value still = 5
